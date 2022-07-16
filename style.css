@@ -1,0 +1,24 @@
+.header_div {
+text-align:center;
+color:rgb(91, 136, 24);
+text-shadow:5px 5px 5px grey;
+}
+.header_div p {
+color:green;
+letter-spacing:4px;
+font-size:20px;
+text-shadow:none !important ;
+}
+.main_div {
+background:linear-gradient(orange 0%, yellow 100%);
+}
+body {
+    font-family: 'Tiro Telugu', serif;
+}
+.copy_write_footer {
+position:fixed; 
+bottom:0;
+text-align:center;
+line-height:2;
+width:100%;
+}
